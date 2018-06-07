@@ -8,7 +8,7 @@ I like doing research on unmanned robots. My whole undergraduate and graduate li
 
 Since I entered the college, I learned to use the single chip computer to invent some interesting electronic toys. Half year later, I designed a self-service parcel pickup box to facilitate people to pick up their packages, by which I won a grant prize in college-wise electronic contest. This experience aroused my interest in robotics. In the second year of college, I started to design a small robot to help the staff in the library to return books. This is my first "unmanned" robot, even though it seems so clumsy...Since then, I wanted my robot more intellengent. I attended the Mathematical Contest In Modeling (MCM) to learn how to think mathematically, and I joined the team of school for *National Undergraduate Electronic Design Contest* twice for strengthening my understanding in control theory. Two-year working in the lab finally paid of. The high-accuracy wind pendulum robot helped me to win the national first prize in the control track in *National Undergraduate Electronic Design Contest*, 2015. In this year, my teammates and I planed to design a big guy: the self-service parcel pickup machines. This is a extention of my previous work, and we wanted to earn money by it. This experience teached me a lesson of how to implement a large program and how to turn a inventio into a commodity. And I became more and more skillful in this area. 
 
-I choosed visual navigation as my topic of master thesis, because I think "eyes" are very important to an unmanned robot. Now I am working on the image-based visible light positioning system that can offer centimeter-wise location services indoors. 
+I choosed visual navigation as my topic of master thesis, because I think a pair of decent "eyes" are very important to an unmanned robot. Now I am working on the image-based visible light positioning system that can offer centimeter-wise location services indoors. 
 
 Education
 ---
@@ -68,49 +68,3 @@ Working Experience
 > *Sparks* is an IoT company for design of self-service parcel pickup machines. 
 
 ![Image](https://raw.githubusercontent.com/charlesLovesCpp/Test/master/pickup_machine.jpg)
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/charlesLovesCpp/charlesq.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/charlesLovesCpp/charlesq.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
