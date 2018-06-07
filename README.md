@@ -54,7 +54,7 @@ Project Experience
   **Advisor:** Zhenjiang Yang
   
   **Vedio:** [wind pendulum system](http://v.youku.com/v_show/id_XMTMxMjY1MTYwNA==.html?spm=a2h0k.11417342.soresults.dtitle)
-> Content: Design a wind pendulum that can swing precisely (with error within 1 cm) to the specific position by four actuator fans, and an inverted pendulum that can return to stable state quickly from at maximum 30 degree of inclination angle. 
+> Content: Design a wind pendulum that can swing precisely (with error within 1 cm) to the specific position by four actuator fans. 
 ![Image](https://raw.githubusercontent.com/charlesLovesCpp/Test/master/robot_2.jpg)
 
 - **2013.12-2015.6:** Design of book-returning robots for libraries
