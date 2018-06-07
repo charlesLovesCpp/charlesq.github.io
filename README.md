@@ -1,9 +1,6 @@
 Research interests
 ---
-
-My research focuses on visual-inertial odometry (VIO) and integrated navigation for robots. I am particularly interested in fusion of image, IMU, GPS, and visual tags in order to make an accurate and robust indoor/outdoor positioning system. 
-
-Positioning system is the eye for robots. I believe that a stable and precise positioning front-end is critical for robots to fulfil complicated tasks. 
+My research interest is high-precision real-time indoor/outdoor positioning, which involves multi-sensor integration (especially vision, INS, visible light and GPS) and deep reinforcement learning. I focus on automatic control system and hardware design during my undergraduate study, and I am pursuing my rsearch in inertial/visible-light indoor positioning system as a graduate student.
 
 Biography
 ---
