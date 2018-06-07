@@ -8,21 +8,25 @@ Positioning system is the eye for robots. I believe that a stable and precise po
 Education
 ---
 
-- **2016.9–2019.3:** Master (advised by Xingqun Zhan)
+- **2016.9–2019.3:** Master (advised by Xingqun Zhan), GPA 3.31/4.0
 
   *School of Aeronautics and Astronautics*, Shanghai Jiao Tong University
   
   
-- **2012.9-2016.7:** Bachelor, 
+- **2012.9-2016.7:** Bachelor, GPA 3.17/4.0, Rank 9/75
 
   *School of Mechanical-Electrical Engineering*, Xidian University
   
-Working Experience
+  
+Prizes
 ---
 
-- Company: Founding member, in Sparks, China
-> Sparks is a IoT company initiated in 2015 that focuses on design and popularization of self-service parcel pickup machines. Our team is in charge of the hardware design and APP development. Our product has been succesfully launched in 2016.8 in Xi'an Jiao Tong University.
-
+- **National First Prize** in *National Undergraduate Electronic Design Contest (NUEDC)* , 2015
+- Owner of *China National Scholarship*, 2015
+- **Honorable Mention** in *Mathematical Contest In Modeling* (MCM), 2015
+- **Second Prize** in  *National Undergraduate Training Programs for Innovation*, 2015
+- **Second Prize** in *NUEDC* in 2014
+- **Grand Prize** in *Xinghuo Electronic Design Contest*, 2013
 
 
 
