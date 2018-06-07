@@ -66,7 +66,7 @@ Working Experience
 - **2015.9-2016.7:** Founding member/CTO of *Sparks*, China
 > *Sparks* is an IoT company initiated in 2015 that focuses on design of self-service parcel pickup machines. 
 
-![Image](https://github.com/charlesLovesCpp/Test/blob/master/pickup_machine.jpg)
+![Image](https://raw.githubusercontent.com/charlesLovesCpp/Test/master/pickup_machine.jpg)
 
 
 
