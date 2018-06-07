@@ -5,6 +5,10 @@ My research focuses on visual-inertial odometry (VIO) and integrated navigation 
 
 Positioning system is the eye for robots. I believe that a stable and precise positioning front-end is critical for robots to fulfil complicated tasks. 
 
+Biography
+---
+I loves Cpp
+
 Education
 ---
 
@@ -25,15 +29,15 @@ Prizes
 - Owner of *China National Scholarship*, 2015
 - **Honorable Mention** in *Mathematical Contest In Modeling* (MCM), 2015
 - **Second Prize** in  *National Undergraduate Training Programs for Innovation*, 2015
-- **Second Prize** in *NUEDC* in 2014
+- **Second Prize** in *NUEDC*, 2014
 - **Grand Prize** in *Xinghuo Electronic Design Contest*, 2013
 
 Publications
 ---
 
-- **Tightly-coupled Inertial/Visible-light Positioning System for Challenging Condition**, *IEEE Photonics Technology Letters*, (SCI, under review) 
+- **Tightly-coupled Inertial/Visible-light Positioning System for Challenging Condition**, *IEEE Photonics Technology Letters* (SCI, under review). 
 
-- **A Multi-state Estimator for Visible Light Positioning**, *Chinese Optic Letter*, (SCI, under review) 
+- **A Multi-state Estimator for Visible Light Positioning**, *Chinese Optic Letter* (SCI, under review). 
   
 Project Experience
 ---
