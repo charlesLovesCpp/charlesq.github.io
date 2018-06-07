@@ -43,7 +43,6 @@ Project Experience
 Advisor: Xingqun Zhan
 Content:
 Develop an indoor positioning system on the basis of visible-light-communication technique. 
-
 ```
 - **2015.5-2015.9:** Research of wind pendulum system
 ```b
@@ -51,7 +50,6 @@ Advisor: Xingqun Zhan
 Vedio: [link](http://v.youku.com/v_show/id_XMTMxMjY1MTYwNA==.html?spm=a2h0k.11417342.soresults.dtitle)
 Content:
 Design a wind pendulum that can swing precisely (with error within 1 cm) to the specific position by four actuator fans, and an inverted pendulum that can return to stable state quickly from at maximum 30 degree of inclination angle. 
-
 ```  
   
 Working Experience
