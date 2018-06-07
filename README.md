@@ -47,7 +47,7 @@ Project Experience
 
   **Advisor:** Xingqun Zhan
 > Content: Develop an indoor positioning system based on visible light communication and inertial navigation system. Two papers are submitted.
-
+![Image](https://raw.githubusercontent.com/charlesLovesCpp/Tightly-coupled-inertial-VLC-positioning-system/master/fig_positioning.jpg)
 
 - **2015.5-2015.9:** Research of wind pendulum system
 
@@ -55,11 +55,13 @@ Project Experience
   
   **Vedio:** [wind pendulum system](http://v.youku.com/v_show/id_XMTMxMjY1MTYwNA==.html?spm=a2h0k.11417342.soresults.dtitle)
 > Content: Design a wind pendulum that can swing precisely (with error within 1 cm) to the specific position by four actuator fans, and an inverted pendulum that can return to stable state quickly from at maximum 30 degree of inclination angle. 
+![Image](https://raw.githubusercontent.com/charlesLovesCpp/Test/master/robot_2.jpg)
 
 - **2013.12-2015.6:** Design of book-returning robots for libraries
 
   **Advisor:** Zhengfeng Ming
 > Content: Design a book-returning robot that can return the books automatically. It contains a machanical arm, sliding platform, and control agent. People can leave their books in the waiting zoom and the books can be catched and placed in right position.
+![Image](https://raw.githubusercontent.com/charlesLovesCpp/Test/master/robot_1.jpg)
 
 Working Experience
 ---
