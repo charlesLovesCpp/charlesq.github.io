@@ -28,6 +28,23 @@ Prizes
 - **Second Prize** in *NUEDC* in 2014
 - **Grand Prize** in *Xinghuo Electronic Design Contest*, 2013
 
+Publications
+---
+
+- **Tightly-coupled Inertial/Visible-light Positioning System for Challenging Condition**, *IEEE Photonics Technology Letters*, (SCI, under review) 
+
+- **A Multi-state Estimator for Visible Light Positioning**, *Chinese Optic Letter*, (SCI, under review) 
+  
+Working Experience
+---
+
+- **2015.9-2016.7:** Founding member/CTO of *Sparks*, China
+> *Sparks* is an IoT company initiated in 2015 that focuses on design and popularization of self-service parcel pickup machines. The product has been succesfully launched in 2016.8 in Xi'an Jiao Tong University.
+
+
+
+
+
 
 
 
