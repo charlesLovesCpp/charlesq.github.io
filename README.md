@@ -4,7 +4,11 @@ My research interest is high-precision real-time indoor/outdoor positioning, whi
 
 Biography
 ---
-I loves Cpp
+I like doing research on unmanned robots. My whole undergraduate and graduate life is centering around it. 
+
+Since I entered the college, I learned to use the single chip computer to invent some interesting electronic toys. Half year later, I designed a self-service parcel pickup box to facilitate people to pick up their packages, by which I won a grant prize in college-wise electronic contest. This experience aroused my interest in robotics. In the second year of college, I started to design a small robot to help the staff in the library to return books. This is my first "unmanned" robot, even though it seems so clumsy...Since then, I wanted my robot more intellengent. I attended the Mathematical Contest In Modeling (MCM) to learn how to think mathematically, and I joined the team of school for *National Undergraduate Electronic Design Contest* twice for strengthening my understanding in control theory. Two-year working in the lab finally paid of. The high-accuracy wind pendulum robot helped me to win the national first prize in the control track in *National Undergraduate Electronic Design Contest*, 2015. In this year, my teammates and I planed to design a big guy: the self-service parcel pickup machines. This is a extention of my previous work, and we wanted to earn money by it. This experience teached me a lesson of how to implement a large program and how to turn a inventio into a commodity. And I became more and more skillful in this area. 
+
+I choosed visual navigation as my topic of master thesis, because I think "eyes" are very important to an unmanned robot. Now I am working on the image-based visible light positioning system that can offer centimeter-wise location services indoors. 
 
 Education
 ---
