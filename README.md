@@ -27,7 +27,7 @@ Prizes
 ---
 
 - **National First Prize** in *National Undergraduate Electronic Design Contest (NUEDC)* , 2015
-- Owner of *China National Scholarship*, 2015
+- **National Scholarship**, Ministry of Education (top 0.2% undergraduates nationwide), 2015
 - **Honorable Mention** in *Mathematical Contest In Modeling* (MCM), 2015
 - **Second Prize** in  *National Undergraduate Training Programs for Innovation*, 2015
 - **Second Prize** in *NUEDC*, 2014
