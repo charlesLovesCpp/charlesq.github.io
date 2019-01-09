@@ -1,6 +1,6 @@
 Research interests
 ---
-My research interest is high-precision real-time indoor/outdoor positioning, which involves multi-sensor integration (especially vision, INS, visible light and GPS) and deep reinforcement learning. I focus on automatic control system and hardware design during my undergraduate study, and I am pursuing my research in inertial/visible-light indoor positioning system as a graduate student.
+My research interest is robotics and accurate real-time indoor/outdoor localization, which involves multi-sensor integration (especially vision, INS, visible light and GPS) and deep reinforcement learning. I focus on automatic control system and hardware design during my undergraduate study, and I am pursuing my research in inertial/visible-light indoor positioning system as a graduate student.
 
 Biography
 ---
@@ -36,9 +36,7 @@ Prizes
 Publications
 ---
 
-- **Tightly-coupled Inertial/Visible-light Positioning System for Challenging Condition**, *IEEE Photonics Technology Letters* (SCI, under review). 
-
-- **A Multi-state Estimator for Visible Light Positioning**, *Chinese Optic Letter* (SCI, under review). 
+- **VLIP: Tightly-coupled Visible-light/Inertial Positioning System to Cope With Intermittent Outage**, *IEEE Photonics Technology Letters* (SCI, accepted). 
   
 Project Experience
 ---
