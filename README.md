@@ -18,7 +18,7 @@ Education
   *School of Aeronautics and Astronautics*, Shanghai Jiao Tong University
   
   
-- **2012.9-2016.7:** Bachelor, GPA 3.17/4.0, Rank 9/75
+- **2012.9-2016.7:** Bachelor, GPA 83/100, Rank 12/80
 
   *School of Mechanical-Electrical Engineering*, Xidian University
   
